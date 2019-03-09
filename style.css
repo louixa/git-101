@@ -1,0 +1,12 @@
+body {
+	margin: 0;
+	font: helevetica;
+}
+
+#container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	flex-direction: column;
+}
